@@ -1,3 +1,0 @@
-arr = ["an"]
-
-puts arr

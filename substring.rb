@@ -1,3 +1,5 @@
+#!/home/mthsgrc/.rbenv/shims/ruby
+
 def substrings(phrase, dictionary)
   words = phrase.downcase.split
   count_words = Hash.new(0)
